@@ -1,0 +1,1 @@
+<div class='variable-error-unrecoverable'><?php echo $message; ?></div>
